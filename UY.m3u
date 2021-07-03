@@ -1,43 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="INTERNACIONAL", NPY PARAGUAY
-http://cdn.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=3000000.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal10_Logo_Actual.jpg/200px-Canal10_Logo_Actual.jpg" group-title="INTERNACIONAL", SAETA CANAL 10 MONTEVIDEO HD URUGUAY
-https://edge-live14-hr.cvattv.com.ar:443/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU-audio_20000=144800-video=1480000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7837/CH_LOGO/60/40/0/0/45676872071383.png" group-title="INTERNACIONAL", CANAL 4 MONTEVIDEO HD URUGUAY
-https://edge3-hr.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Canal4_URU-audio_20000=144800-video=1480000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/LogoTeledoce2019Azul.png/150px-LogoTeledoce2019Azul.png" group-title="INTERNACIONAL", TELEDOCE MONTEVIDEO HD URUGUAY
-https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU-audio_20000=144800-video=1726000.m3u8
-
-#EXTINF:-1,Canal 4 Montecarlotv 
-https://edge3-hr.cvattv.com.ar:443/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Canal4_URU.m3u8
-#EXTINF:-1,4 montecarlo
-http://192.99.46.43:25461/Ultratoken/budTV/3232/1823.m3u8
-#EXTINF:-1,CANAL CUATRO
-http://192.99.46.43:25461/Ultratoken/budTV/3232/1826.m3u8
-
-#EXTINF:-1,Canal 10 Saeta
-https://edge-live14-hr.cvattv.com.ar:443/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
-#EXTINF:-1,10 saeta
-http://192.99.46.43:25461/Ultratoken/budTV/3232/1822.m3u8
-#EXTINF:-1,Canal Diez
-http://192.99.46.43:25461/Ultratoken/budTV/3232/1825.m3u8
-
-#EXTINF:-1,Tele12
-https://edge2-sl.cvattv.com.ar:443/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU.m3u8
-#EXTINF:-1,Canal Doce Tele
-http://192.99.46.43:25461/Ultratoken/budTV/3232/1819.m3u8
-#EXTINF:-1,Canal Doce Tele
-http://192.99.46.43:25461/Ultratoken/budTV/3232/1818.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/LogoTeledoce2019Azul.png/150px-LogoTeledoce2019Azul.png" group-title="INTERNACIONAL", TELEDOCE MONTEVIDEO HD URUGUAY
-https://edge2-sl.cvattv.com.ar/live/c5eds/Canal12URU/verimatrix_rotating_FTA/Canal12URU-audio_20000=144800-video=1726000.m3u8
+#EXTINF:-1 tvg-logo="http://kabala.com.uy/escudo/imagenes/escudo1.png" group-title="URUGUAY", TELEDOCE URUGUAY
+https://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 
 
